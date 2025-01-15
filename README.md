@@ -1,7 +1,7 @@
 # DATA MODEL CHECKER
 
 ## Overview
-The DATA MODEL CHECKER is a Python-based testing suite developed to validate the integrity and design of MySQL databases. This tool is designed to assist developers in ensuring that their database structures are robust, accurately designed, and comply with specified data integrity constraints.
+The Data Model Checker is a Python-based testing suite developed to validate the integrity and design of MySQL databases. This tool is designed to assist developers in ensuring that their database structures are robust, accurately designed, and comply with specified data integrity constraints.
 
 ## Technologies Used
 - **Python**: Used for developing the testing suite.

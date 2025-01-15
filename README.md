@@ -13,5 +13,5 @@ The Data Model Checker is a Python-based testing suite developed to validate the
 - **Database Design Analysis**: Conducts detailed inspections of database design components to identify and rectify high-impact areas, ensuring comprehensive testing coverage.
 
 ## Usage
-To run the data nodel checker, use the following command from the project directory:
+To run the data model checker, use the following command from the project directory:
 python data_model_checker.py
